@@ -1,0 +1,7 @@
+color scheme: 
+- oxford blue: 000629
+- royal blue dark: 001C55, 0A2472
+- honolulu blue: 0E6BA8
+- non photo blue: A6E1FA
+
+
